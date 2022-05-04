@@ -1,3 +1,7 @@
 # ksc-st
 
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/ksc-st)
+## [araikormairu]
+
+# Version
+
+- **Version 1.0.0** _4/5/65_ 
